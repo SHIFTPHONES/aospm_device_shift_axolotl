@@ -1,3 +1,12 @@
+#
+# Copyright (C) 2022 SHIFT GmbH
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+# Use the non-open-source parts, if they're present
+-include vendor/shift/proprietary/axolotl/BoardConfigVendor.mk
+
 include device/generic/sdm845/shared/BoardConfig.mk
 #include device/generic/sdm845/axolotl/BoardConfig.mk
 ##############################################
