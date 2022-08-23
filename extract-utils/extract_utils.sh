@@ -98,7 +98,7 @@ function setup_vendor() {
         exit 1
     fi
 
-    export OUTDIR=vendor/"$VENDOR"/"$DEVICE"
+    export OUTDIR=vendor/"$VENDOR"/proprietary/"$DEVICE"
     if [ ! -d "$ANDROID_ROOT/$OUTDIR" ]; then
         mkdir -p "$ANDROID_ROOT/$OUTDIR"
     fi
