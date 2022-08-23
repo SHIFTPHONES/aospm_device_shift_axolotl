@@ -1,0 +1,28 @@
+# Proprietary files
+
+# Firmware
+vendor/firmware/ath10k/WCN3990/hw1.0/board-2.bin
+vendor/firmware/ath10k/WCN3990/hw1.0/firmware-5.bin
+
+vendor/firmware/qca/axolotl/crnv21.bin
+vendor/firmware/qca/crbtfw21.tlv
+
+vendor/firmware/qcom/a630_gmu.bin
+vendor/firmware/qcom/a630_sqe.fw
+vendor/firmware/qcom/sdm845/axolotl/a630_zap.mbn
+
+vendor/firmware/qcom/sdm845/axolotl/adsp.mbn
+vendor/firmware/qcom/sdm845/axolotl/adspr.jsn
+vendor/firmware/qcom/sdm845/axolotl/adspua.jsn
+vendor/firmware/qcom/sdm845/axolotl/cdsp.mbn
+vendor/firmware/qcom/sdm845/axolotl/cdspr.jsn
+vendor/firmware/qcom/sdm845/axolotl/ipa_fws.mbn
+vendor/firmware/qcom/sdm845/axolotl/mba.mbn
+vendor/firmware/qcom/sdm845/axolotl/modem.mbn
+vendor/firmware/qcom/sdm845/axolotl/modemr.jsn
+vendor/firmware/qcom/sdm845/axolotl/modemuw.jsn
+vendor/firmware/qcom/sdm845/axolotl/slpi.mbn
+vendor/firmware/qcom/sdm845/axolotl/slpir.jsn
+vendor/firmware/qcom/sdm845/axolotl/slpius.jsn
+vendor/firmware/qcom/sdm845/axolotl/venus.mbn
+vendor/firmware/qcom/sdm845/axolotl/wlanmdsp.mbn
